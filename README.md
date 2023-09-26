@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 💻 Desenvolvedor Frontend e UI Design.
 - 🖼️ Estagiei com Web Design com enfâse em social media onde atuei com frontend e criação de artes para a web.
-- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, MySQL, Bootstrap, Git, Github, UI Design e Photoshop.
+- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, MySQL, Bootstrap, Git, Figma, UI Design e Photoshop.
 
 ### Hobbies:
 - 📷 Apaixonado por fotografia.
