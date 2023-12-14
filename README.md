@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Olá, bem vindo! Eu sou o Wesley Silva! 
-<!-- <img src="https://media.giphy.com/media/oL3kDXFGkBc9a/giphy.gif" width="40"></h2> --> <br>
+<h2> Olá, bem vindo! Eu sou o Wesley Silva! <br>
+<!-- <img src="https://media.giphy.com/media/oL3kDXFGkBc9a/giphy.gif" width="40"></h2> --> 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlxbm5oODJsMWNoYjExamhnZzZ1NDlzcDdkMHE1djk5eGNqOWIxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="230">
 <p><em>Sou estudande de ADS no <a href="http://portal.ifspguarulhos.edu.br/"> Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.</a><br/>
 
