@@ -1,4 +1,4 @@
-![image](https://github.com/wesleyonhub/wesleyonhub/assets/77307755/d697fc6a-429a-410d-99c5-df2ca0b7e1ff)<!--
+<!-- ![image](https://github.com/wesleyonhub/wesleyonhub/assets/77307755/d697fc6a-429a-410d-99c5-df2ca0b7e1ff)<!--
 **wesleyonhub/wesleyonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Icon-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Icon-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img align="center" alt="Icon-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />          
   <img align="center" alt="Icon-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Icon-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
@@ -38,11 +39,11 @@ Here are some ideas to get you started:
 
 - 💻 Desenvolvedor Frontend e UI Design.
 - 🖼️ Estagiei como Web Design onde trabalhei com frontend e criação de artes para a web.
-- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, MySQL, Bootstrap, Git, Figma, UI Design e Photoshop.
+- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, Vue, MySQL, Bootstrap, Git, Figma, Photoshop.
 
 ### Hobbies:
-- 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com/">Minhas fotos!</a>.
-- 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br/">Meu coletivo!</a>.
+- 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com/">Minhas fotos!</a>
+- 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br/">Meu coletivo!</a>
 - 🎸 Gosto de fazer e ouvir um sonzinho! 🎼
 
 
