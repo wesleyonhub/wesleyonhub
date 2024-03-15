@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 - 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, Vue, MySQL, Bootstrap, Git, Figma, Photoshop.
 
 ### Hobbies:
-- 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com/" target="_blank">Minhas fotos!</a>
-- 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br/" target="_blank">Meu coletivo!</a>
+- 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com" target="_blank" rel=”noopener”>Minhas fotos!</a>
+- 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br" target="_blank" rel=”noopener”>Meu coletivo!</a>
 - 🎸 Gosto de fazer e ouvir um sonzinho! 🎼
 
 
