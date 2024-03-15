@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/wesleyonhub/wesleyonhub/assets/77307755/d697fc6a-429a-410d-99c5-df2ca0b7e1ff)<!--
 **wesleyonhub/wesleyonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 ### Um pouco mais sobre mim...
 
 - 💻 Desenvolvedor Frontend e UI Design.
-- 🖼️ Estagiei com Web Design com enfâse em social media onde atuei com frontend e criação de artes para a web.
+- 🖼️ Estagiei como Web Design onde trabalhei com frontend e criação de artes para a web.
 - 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, MySQL, Bootstrap, Git, Figma, UI Design e Photoshop.
 
 ### Hobbies:
-- 📷 Apaixonado por fotografia.
-- 🎞️ Faço parte de um coletivo de cinema. O <a href="https://kinoferico.com.br/">Kinoférico</a>.
+- 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com/">Minhas fotos!</a>.
+- 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br/">Meu coletivo!</a>.
 - 🎸 Gosto de fazer e ouvir um sonzinho! 🎼
 
 
