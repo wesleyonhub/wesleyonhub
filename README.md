@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ### Hobbies:
 - 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com" target="_blank" rel=”noopener”>Minhas fotos!</a>
 - 🎞️ Cinema. 👉  <a href="https://kinoferico.com.br" target="_blank" rel=”noopener”>Meu coletivo!</a>
-- 🎸 Gosto de fazer e ouvir um sonzinho! 🎼
+- 🎸 Música. 🎼
 
 
 <hr>
