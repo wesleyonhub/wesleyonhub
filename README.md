@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Um pouco mais sobre mim...
 
 - 💻 Desenvolvedor Frontend e UI Design.
-- 🖼️ Estagiei como Web Design onde trabalhei com frontend e criação de artes para a web.
+- 🖼️ Estagiei como Web Designer onde trabalhei com front-end e criação de artes para a web.
 - 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, Vue JS, Figma e Photoshop.
 
 ### Hobbies:
