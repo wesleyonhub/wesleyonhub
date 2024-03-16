@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 💻 Desenvolvedor Frontend e UI Design.
 - 🖼️ Estagiei como Web Design onde trabalhei com frontend e criação de artes para a web.
-- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, Vue, MySQL, Bootstrap, Git, Figma, Photoshop.
+- 👨🏾‍💻 Conhecimentos: HTML, CSS, Javascript, NodeJS, Vue JS, Figma e Photoshop.
 
 ### Hobbies:
 - 📷 Fotografia. 👉 <a href="https://webafotosite.46graus.com" target="_blank" rel=”noopener”>Minhas fotos!</a>
