@@ -26,7 +26,6 @@
 <hr>
 
 ### Sobre:
-- 💻 Analista de Suporte | Suporte Técnico | TI | ADS.
 - 👨🏾‍💻 Suporte e infraestrutura: Hardware e manutenção de computadores, Troubleshooting, Windows, Microsoft 365, Redes e TCP/IP, DNS e DHCP, Virtualização, Suporte remoto.
 - 🖼️ Desenvolvimento: HTML, CSS, JavaScript, PHP, SQL / MySQL, Git / GitHub.
 
