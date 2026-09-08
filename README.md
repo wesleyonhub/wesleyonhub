@@ -5,9 +5,7 @@
 <h2> Olá, bem vindo! Eu sou o Wesley Silva! <br>
 <!-- <img src="https://media.giphy.com/media/oL3kDXFGkBc9a/giphy.gif" width="40"></h2> --> 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlxbm5oODJsMWNoYjExamhnZzZ1NDlzcDdkMHE1djk5eGNqOWIxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="230">
-<p><em>Profissional em início de carreira em Tecnologia da Informação, com formação em Análise e Desenvolvimento de Sistemas pelo IFSP e experiência prática com hardware, manutenção de computadores, redes, troubleshooting e desenvolvimento web.
-
-Atualmente direciono meus estudos para Suporte Técnico, Service Desk, Suporte de Sistemas e Infraestrutura, mantendo desenvolvimento de software, banco de dados e automação como competências complementares.<br/>
+<br/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
