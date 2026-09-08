@@ -1,8 +1,10 @@
 <!--
 **wesleyonhub/wesleyonhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<h2> Olá, bem vindo! Eu sou o Wesley Silva! <br>
+<div align="center">
+  <h1>Wesley</h1>
+  <p>Analista de Suporte • Suporte Técnico • TI • ADS</p>
+</div>
 <!-- <img src="https://media.giphy.com/media/oL3kDXFGkBc9a/giphy.gif" width="40"></h2> --> 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlxbm5oODJsMWNoYjExamhnZzZ1NDlzcDdkMHE1djk5eGNqOWIxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/80dIUvgluhCGuHKjBP/giphy.gif" width="230">
 <br/>
